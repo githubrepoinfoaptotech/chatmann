@@ -2,3 +2,5 @@ myenv
 _pycache
 ca.crt
 ca.key
+.env
+*.pyc
